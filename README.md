@@ -4,7 +4,7 @@ Hi there!
 This script is used to disable or manage Windows Updates.
 We all know windows has quite a reputation for forcing updates onto us.
 
-Be aware that I haven't tested this script fully so you're at your own risk, I will not be held responsable for any damage that happens to your PC.
+Script has been tested in Windows11 Insider [Beta -- 24H2: build 26080.1] .
 
 ## Use
 
